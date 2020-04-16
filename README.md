@@ -52,8 +52,7 @@ An android phone will be our only data source. It is important that it has signa
 The data will be exported into a geoposition array, which will be interpreted into a map in the next stages.
 
 Implementation
-Check  java file and xml file
-(IntelliJAmiya, StackOverflow)
+To run you must make sure you have the play-services 11.0.1 included in the project. To do this you must type (ctrl+alt+shift+s) then select dependencies, search for play-services and select the option with the version 11.0.1.
 
 Results
 
